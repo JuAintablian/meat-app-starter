@@ -1,10 +1,10 @@
 import { Component, OnInit } from '@angular/core';
 
 @Component({
-  selector: 'mt-order',
-  templateUrl: './order.component.html'
+  selector: 'mt-radio',
+  templateUrl: './radio.component.html'
 })
-export class OrderComponent implements OnInit {
+export class RadioComponent implements OnInit {
 
   constructor() { }
 
